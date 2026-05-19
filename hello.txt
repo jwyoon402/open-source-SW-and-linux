@@ -1,0 +1,2 @@
+Git practice assignment
+First commit from lecture Linux server
