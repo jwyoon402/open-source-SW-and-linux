@@ -2,3 +2,4 @@ Git practice assignment
 First commit from lecture Linux server
 Second change
 Third change for git
+This line was added from Git bash on my personal computer.
